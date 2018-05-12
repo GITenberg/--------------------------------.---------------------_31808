@@ -1,0 +1,49 @@
+_repo: '--------------------------------.---------------------_31808'
+_version: 0.1.0
+alternative_title: Romeo and Juliet. Greek
+contributor:
+  translator:
+    agent_name: Vikelas, Demetrios
+    aliases:
+    - Βικέλας, Δημήτριος
+    - Bikelas, Demetrius
+    - Bikelas, Demetrios
+    birthdate: 1835
+    deathdate: 1908
+    gutenberg_agent_id: '6012'
+    url: http://www.gutenberg.org/2009/agents/6012
+    wikipedia: http://en.wikipedia.org/wiki/Demetrius_Vikelas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2010-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31808'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Juliet (Fictitious character) -- Drama'
+- !lcsh 'Vendetta -- Drama'
+- !lcsh 'Romeo (Fictitious character) -- Drama'
+- !lcc 'PR'
+- !lcsh 'Youth -- Drama'
+- !lcsh 'Verona (Italy) -- Drama'
+- !lcsh 'Conflict of generations -- Drama'
+- !lcsh 'Tragedies'
+title: 'Σαικσπείρου Τραγωδίαι : Μέρος Α''. Ρωμαίος και Ιουλιέτα'
+url: http://www.gutenberg.org/ebooks/31808
